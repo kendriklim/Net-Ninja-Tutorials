@@ -5,7 +5,7 @@
 ## Table of Contents
 - [Object oriented JavaScript](#object-oriented-javascript)
 
-- [React, Redux & Firebase App](#react,-redux-&-firebase-app)
+- [React, Redux & Firebase App](#react-redux-firebase-app)
 
 - [Heading](#heading)
 
