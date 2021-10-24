@@ -7,7 +7,7 @@
 
 - [React, Redux & Firebase App](#react-redux--firebase-app)
 
-- [Python 3 Tutorial for Beginners](#Python-3-Tutorial-for-Beginners)
+- [Python 3 Tutorial for Beginners](#python-3-tutorial-for-beginners)
 
 
 
