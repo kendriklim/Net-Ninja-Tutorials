@@ -3,7 +3,7 @@
 > Compliation of NetNinja Tutorials
 
 ## Table of Contents
-- [Heading](#heading)
+- [Object oriented JavaScript](#heading)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
 - [Heading](#heading-1)
@@ -16,7 +16,7 @@
 
 
 
-## Heading 1. Object oriented JavaScript
+## 1. Object oriented JavaScript
 
 This is an h1 heading
 
