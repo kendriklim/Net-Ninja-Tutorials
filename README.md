@@ -3,10 +3,10 @@
 > Compliation of NetNinja Tutorials
 
 ## Table of Contents
-- [Object oriented JavaScript](#heading)
+- [Object oriented JavaScript](#object-oriented-javascript)
   * [Sub-heading](#sub-heading)
     + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
+- [React, Redux & Firebase App](#react,-redux-&-firebase-app)
   * [Sub-heading](#sub-heading-1)
     + [Sub-sub-heading](#sub-sub-heading-1)
 - [Heading](#heading-2)
@@ -16,29 +16,14 @@
 
 
 
-## 1. Object oriented JavaScript
+## Object oriented JavaScript
 
 This is an h1 heading
 
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
-
-## Heading
+## React, Redux & Firebase App
 
 This is an h1 heading
 
-### Sub-heading
-
-This is an h2 heading
-
-#### Sub-sub-heading
-
-This is an h3 heading
 
 ## Heading
 
